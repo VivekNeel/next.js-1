@@ -4,6 +4,7 @@ export default {
     locale: 'en_IE',
     site_name: 'SiteName',
   },
+  facebook : {{appId : "733053457561647"}},
   twitter: {
     handle: '@handle',
     site: '@site',
